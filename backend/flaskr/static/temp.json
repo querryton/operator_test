@@ -1,0 +1,20 @@
+{
+  "id": 866086029,
+  "html_url": "https://github.com/tensorflow/tensorflow/issues/48718",
+  "number": 48718,
+  "title": "IOS version of TensorFlowLiteC expose symbol(s) not found error",
+  "user": {
+    "login": "Mrlyk423"
+  },
+  "created_at": "2021-04-23T12:56:06Z",
+  "updated_at": "2021-04-23T12:56:09Z",
+  "body": "<em>Please make sure that this is a build/installation issue. As per our ... Large logs and files should be attached. ",
+  "labels": [
+    {
+      "name": "type:build/install",
+      "color": "159b2e"
+    }
+  ],
+  "state": "open",
+  "comments": 0
+}

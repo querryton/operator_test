@@ -1,0 +1,59 @@
+/* nav {
+    width: 20%;
+    height: auto;
+    padding: 20px 3%;
+    overflow-x: hidden;
+    float: left;
+} */
+
+
+/* main {
+    width: 80%;
+    height: auto;
+    float: right;
+    padding: 20px 3% 20px 0px;
+} */
+
+.site-layout-background {
+    background: #fff;
+}
+
+.footer-pagination {
+    margin: 5px auto;
+    width: fit-content;
+    height: auto;
+}
+
+.ant-btn {
+    border-radius: 6px;
+}
+
+.item-header {
+    background-color: #f6f6f6;
+    font-size: 14px;
+    padding: 12px;
+}
+
+.item-description-line {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.add-button {
+    background-color: #1890FF;
+    border: none;
+    border-radius: 6px;
+    outline: medium;
+    margin-left: 40px;
+    font-family: inherit;
+    font-size: 14px;
+    width: 64px;
+    height: 32px;
+    color: white;
+}
+
+.add-button:hover {
+    background-color: #40A9FF;
+    cursor: pointer;
+}

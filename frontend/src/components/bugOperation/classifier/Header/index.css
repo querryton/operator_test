@@ -1,0 +1,16 @@
+.classifier-header-bar{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    height: 40px;
+    line-height: 40px;
+}
+.classifier-select-bar{
+    float: left;
+    margin-right: 20px;
+    width: 40%;
+}
+
+.classifier-pri{
+    float: left;
+    width: 100px;
+}

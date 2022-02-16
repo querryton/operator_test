@@ -1,0 +1,37 @@
+.mutate-method-header .ant-layout {
+    background-color: rgba(255, 255, 255, 0.0);
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.mutate-method-header .ant-select-selector {
+    border-radius: 6px 0px 0px 6px !important;
+}
+
+.mutate-method-header .center .ant-input-affix-wrapper {
+    border-radius: 0px !important;
+}
+
+.mutate-method-header .center .ant-input-search-button {
+    border-radius: 0px 6px 6px 0px !important;
+}
+
+.mutate-method-header .right,
+.mutate-method-header .left {
+    height: fit-content;
+    background-color: rgba(255, 255, 255, 0.0);
+}
+
+.mutate-method-header .center {
+    height: fit-content;
+    margin-left: -1px;
+    padding: 0px;
+}
+
+#control-ref .ant-btn {
+    margin-right: 8px;
+}
+
+#control-ref .protocol-select-before {
+    width: 100px;
+}

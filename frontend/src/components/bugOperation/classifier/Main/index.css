@@ -1,0 +1,30 @@
+.collapse-classify-result{
+    background-color: white;
+}
+.collapse-classify-result .ant-collapse-content > .ant-collapse-content-box {
+    padding: 0px;
+}
+.collapse-classify-result .ant-card-small > .ant-card-body {
+    padding: 12px 16px;
+}
+.collapse-header{
+    background-color: #f6f6f6;
+    height: 45px;
+    font-size: 14px;
+    line-height: 45px;
+}
+
+.collapse-header .icon{
+    float: left;
+    margin-left: 16px;
+}
+
+.collapse-header .category{
+    float: left;
+    margin-left: 10px;
+}
+
+.collapse-header .number{
+    float: right;
+    margin-right: 16px;
+}

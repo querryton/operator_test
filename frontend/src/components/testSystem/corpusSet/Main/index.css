@@ -1,0 +1,25 @@
+.corpus-set-select-wrapper {
+    display: flex;
+    display: -webkit-flex;
+    margin-bottom: 15px;
+}
+
+.corpus-set-select-title {
+    flex: 0 1 60px;
+    text-align: right;
+}
+
+.corpus-set-select {
+    flex: 1;
+}
+
+.corpus-set-image-wrapper .ant-image {
+    display: block;
+    margin: 0 auto;
+}
+
+.corpus-set-image-description {
+    width: fit-content;
+    margin: 0 auto;
+    font-size: 16px;
+}

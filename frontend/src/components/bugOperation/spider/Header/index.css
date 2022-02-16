@@ -1,0 +1,27 @@
+.spider-header-bar{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.spider-select-bar{
+    float: left;
+    margin-right: 20px;
+    width: 40%;
+}
+
+.spider-pri{
+    float: left;
+    width: 100px;
+}
+.spider-sub{
+    float: left;
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.spider-sub a{
+    display: block;
+    font-size: 13px;
+}

@@ -1,0 +1,64 @@
+.mutate-method-item-detail .detail-table {
+    table-layout: fixed !important;
+    word-break: break-all;
+    width: 100%;
+    box-sizing: border-box;
+    border-collapse: collapse;
+    border: 1px solid #f0f0f0;
+    border-spacing: 2px;
+    font-size: 14px;
+    line-height: 1.5715;
+    color: rgba(0, 0, 0, 0.85);
+}
+
+.mutate-method-item-detail .detail-table tr {
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.mutate-method-item-detail .detail-table th {
+    padding: 8px 16px;
+    background-color: #fafafa;
+    border-right: 1px solid #f0f0f0;
+    box-sizing: border-box;
+    font-weight: normal;
+    text-align: start;
+}
+
+.mutate-method-item-detail .detail-table td {
+    padding: 8px 16px;
+    border-right: none;
+    flex: 1 1;
+    word-break: break-word;
+    overflow-wrap: break-word;
+}
+
+.mutate-method-item-detail .information {
+    font-size: 16px;
+    margin: 0px auto 10px auto;
+}
+
+.mutate-method-item-detail .image-table {
+    width: 100%;
+}
+
+.mutate-method-item-detail .image-table td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.mutate-method-item-detail .ant-image {
+    width: 100%;
+}
+
+.mutate-method-item-detail .mutate-method-image {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.mutate-method-item-detail .image-description {
+    font-size: 14px;
+}
+
+.mutate-method-item-detail .custom-data-table {
+    width: 100%;
+}
